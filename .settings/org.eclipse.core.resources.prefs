@@ -1,2 +1,15 @@
 eclipse.preferences.version=1
+encoding//cookie/cookieGet.py=utf-8
+encoding//cookie/cookieSend.py=utf-8
+encoding//cookie/sessionDefault.py=utf-8
+encoding//cookie/sessionDel.py=utf-8
+encoding//cookie/sessionKeep.py=utf-8
+encoding//cookie/sessionSave.py=utf-8
+encoding//get/getHeader.py=utf-8
+encoding//other/authBase.py=utf-8
+encoding//other/authDigest.py=utf-8
+encoding//other/authO.py=utf-8
+encoding//other/proxy.py=utf-8
+encoding//other/unittestMore1.py=utf-8
+encoding//other/unittestOne.py=utf-8
 encoding/<project>=UTF-8
